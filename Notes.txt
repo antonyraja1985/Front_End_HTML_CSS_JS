@@ -1,0 +1,48 @@
+Tools Required:
+==========================
+1. Visual sudio code
+       https://code.visualstudio.com/
+
+2.Visual Studio Extensions
+       
+       1.live server
+       2.Prettier
+       3.Auto Rename Tag
+       4.IntelliSense for CSS class names in HTML
+
+ReactJs Developer
+===================================================
+1.Html
+2.Css
+3.JavaScript
+
+UI/UX developer--[Html css- Master]
+
+Font End Developer [html,css,JavaScript Basic]
+===================================================
+
+Html
+===================================================
+1.document+Object+Model=(DOM)
+2.html tag
+3.attribute
+4.element
+5.block element
+6.inline element
+==================================================
+
+2.html tag
+==================================================
+1.closed tag --->
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+<p></p>
+
+2.unclosed tag---> <br>
+<hr>
+
+webpage(html+css+javascript)
