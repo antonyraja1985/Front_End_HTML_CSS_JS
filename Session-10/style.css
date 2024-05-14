@@ -1,0 +1,15 @@
+.flexContainer{
+
+    background-color: brown;
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+}
+
+.fbox{
+
+    background-color: burlywood;
+    height: 120px;
+    width: 200px;
+    margin: 5px;
+}

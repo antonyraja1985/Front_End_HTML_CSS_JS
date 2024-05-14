@@ -10,7 +10,7 @@ Tools Required:
        3.Auto Rename Tag
        4.IntelliSense for CSS class names in HTML
 
-ReactJs Developer
+ReactJs Developer (front end developer)
 ===================================================
 1.Html
 2.Css
@@ -45,4 +45,150 @@ Html
 2.unclosed tag---> <br>
 <hr>
 
-webpage(html+css+javascript)
+
+3.attribute
+===========================================
+1.attribute always declared inside the tag only
+2.attribute contains Key-value 
+
+What is the use Attribute:
+==========================================
+attribute is used to change the  charector of element
+
+
+Example
+=============
+    <img    src="images/arvind.jpg">
+
+    tag==><img>
+    src==>attribute
+    "images/arvind.jpg"==>value
+
+
+Element:
+=================
+if a tag contains content is called element
+if a tag contains attributes is called element
+
+<img src="images/i.jpg">
+<h1 class="">Welcome to Html</h1>
+
+How to change the color of element
+===================================================
+1.using css we can chnage the color
+
+How to the change font size
+==================================================
+using css we can chnage the font size
+
+How to change the font style
+===================================================
+using css we can chnage the font style
+
+What is css
+==================================================
+1.Cascading stylish sheet (Css)
+2.we can css for web page styling
+
+
+Html and Css both are same or not?
+=================================================
+Html and Css both are not same
+
+Types of css:
+=================================================
+1.inline css
+2.internal css
+3.external css
+
+inline css
+=================================================
+1.if you style a speific tag or element is called inline css
+2.using attribute only we can design a element
+3.attribute is style=""
+===================================================
+
+internal css
+===================================================
+1.internal css is used to stylish single page level
+2.we should use <style></style> inside the <head> tag
+3.we should use class="" attribute
+
+External css
+==================================================
+1.External css is used to stylish multi pages
+2.We should create separate .css file(style.css)
+3.If you want to change multiple file style we can do one changes in style.css
+4.we shuold link style.css file into multiple files
+5.we should use class="" attribute
+==================================================
+
+div element
+==================================================
+
+
+Css Selectors
+==================================================
+1.class slector
+2.id selector
+3.element selector
+4.group selector
+5.universal selector
+
+1.class slector
+===================================================
+1.class name should be starts with dot[.]
+Example:
+===============
+.container{
+       
+}
+
+2.Id slector
+===================================================
+1.id name should be starts with hash[#]
+Example:
+===============
+#container{
+       
+}
+
+3.Element slector
+===================================================
+1.Element slector should be starts with tag
+Example:
+===============
+div{
+       
+}
+===================================
+h1{
+       
+}
+===================================
+p{
+       
+}
+===================================
+boiler plate code
+===================================================
+
+
+
+
+
+
+
+
+
+
+1.tag
+attribute
+element
+inline css
+internal css
+external css
+
+table
+form
+

@@ -1,0 +1,54 @@
+.container{
+
+    border: 3px solid #2874A6 ;
+    height: 200px;
+    /* padding: 10px; */
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.box1{
+    background-color: #1ABC9C;
+    height: 50px;
+    border: 1px solid #1ABC9C;
+    margin: 10px;
+    width: 200px;
+    color: white;
+    text-align: center;
+}
+
+.box2{
+    background-color: #D4AC0D;
+    height: 50px;
+    border: 1px solid #1ABC9C;
+    margin: 10px;
+    width: 200px;
+}
+
+.box3{
+background-color: #3498DB;
+    height: 50px;
+    border: 1px solid #1ABC9C;
+    margin: 10px;
+ width: 200px;
+}
+
+.menuContainer{
+
+    border: 2px solid #2874A6;
+    margin-top: 15px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu{
+    background-color: #1ABC9C;
+    color: white;
+    width: 200px;
+    margin-top: 3px;
+    text-decoration: none;
+    padding: 3px;
+    border-right: 5px solid #2874A6;
+}
